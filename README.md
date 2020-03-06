@@ -33,3 +33,5 @@
       * a primeira vez utilizar git push -u origin master
     * git pull (para buscar arquivos diretório remoto)
 
+  * Explorando Scripts no Linux
+    * Guia Foca Linux - [Site](https://guiafoca.org/)
