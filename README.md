@@ -38,3 +38,6 @@
 
   * Explorando Scripts no Linux
     * Guia Foca Linux - [Site](https://guiafoca.org/)
+
+  * Exemplo de Dahsboard
+    * https://thingsboard.io/
