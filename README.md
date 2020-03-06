@@ -2,6 +2,19 @@
 
 ### Primeiro Encontro Presencial - 07/03/2020
 
+#### Atualizando o sistema operacional (Ubuntu)
+* sudo su
+* apt-get update
+* apt-get upgrade
+* apt-get dist-upgrade (se necessário)
+* apt-get autoremove (se necessário)
+
+#### Instalando um software por apt-get
+* Atualizar o sistema operacional
+* Como root:
+  * apt-cache search \<parte do nome do possível pacote\>
+  * apt-get install \<nome do pacote\>
+
 #### Protocolo Git
   * Site de referência - [Fast Version Control ...](https://git-scm.com/)
   * Criar conta no GitHub - [Existem outras opções](https://pt.wikiversity.org/wiki/Github_x_Gitlab_x_Bitbucket)
