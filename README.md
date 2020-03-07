@@ -33,7 +33,7 @@
 
   * Comandos selcionados:
     * git help
-    * git clone <URL provida pelo GitHub>
+    * git clone \<URL provida pelo GitHub\>
     * git config --global user.name "Leonardo Comelli"
     * git config --global user.email leonardo@software-ltda.com.br
     * git add meu_arquivo.txt (para adicionar todos os arquivos git add .)
