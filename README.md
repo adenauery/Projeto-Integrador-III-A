@@ -1,7 +1,7 @@
 ## Projeto Integrador III-A - Redes de Computadores
 
 ### Equipe
-  * Guilherme de Souza Dias
+
   * Ronaldo Silva da Cunha
   
 ### Primeiro Encontro Presencial - 07/03/2020
