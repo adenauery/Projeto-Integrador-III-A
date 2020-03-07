@@ -39,6 +39,8 @@
   * Explorando Scripts no Linux
     * Guia Foca Linux - [Site](https://guiafoca.org/)
     * Livros sobre Bash Scripts - [Diretório](https://drive.google.com/open?id=0B2INSZz1E5TlVWdkVFM0OUxKXzA)
+    * Exemplos de Scripts:
+      * [Filtro CPU e Memória](http://olaria.ucpel.edu.br/materiais/doku.php?id=script-filtro-informacoes)
 
   * Exemplos de Dahsboard
     * https://thingsboard.io/
