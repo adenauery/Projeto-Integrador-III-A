@@ -20,7 +20,7 @@
 * apt-get autoremove (se necessário)
 
 #### Instalando um software por apt-get
-* Atualizar o sistema operacional
+* Atualizar o sistema operacional (vide item acima)
 * Como root:
   * apt-cache search \<parte do nome do possível pacote\>
   * apt-get install \<nome do pacote\>
