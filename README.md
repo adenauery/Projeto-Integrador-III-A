@@ -39,6 +39,6 @@
   * Explorando Scripts no Linux
     * Guia Foca Linux - [Site](https://guiafoca.org/)
 
-  * Exemplo de Dahsboard
+  * Exemplos de Dahsboard
     * https://thingsboard.io/
     * [Dahsboards para Linux](https://homelaber.com.br/linux-dashboards-ferramentas-simples-para-monitorar-o-seu-servidor-linux/)
