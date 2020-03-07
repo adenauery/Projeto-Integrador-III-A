@@ -1,4 +1,4 @@
-## Projeto Integrador III - Redes de Computadores
+## Projeto Integrador III-A - Redes de Computadores
 
 ### Primeiro Encontro Presencial - 07/03/2020
 
