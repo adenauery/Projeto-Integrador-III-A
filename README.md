@@ -1,7 +1,5 @@
 ## Projeto Integrador III-A - Redes de Computadores
 
-Formulário Avaliação: https://forms.gle/PfVEpZ8uKCBpPjpX9
-
 ### Equipe
 
   * Ronaldo Silva da Cunha - Presente em 07/03/2020
