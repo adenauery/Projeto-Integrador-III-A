@@ -58,6 +58,13 @@
     
  #### Avalição
  
+  * Dashboards
+    * Selecionar um Dashboar open-source ou free da relação abaixo:
+      * [77 Open Source, Free and Top Dashboards](https://www.predictiveanalyticstoday.com/open-source-dashboard-software/)
+      
+  * Dashboards Selecionados:
+    * Ronaldo: Google Data Studio
+ 
   * Entrega Parcial
     * Relatório descrevendo as funcionalidades de um Dashboard, podendo ser incluídas figuras, tabelas, etc.
     
