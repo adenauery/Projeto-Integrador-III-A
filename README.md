@@ -67,7 +67,7 @@
     * Ronaldo Silva da Cunha: Google Data Studio
  
   * Entrega Parcial:
-    * Relatório descrevendo as funcionalidades do Dashboard selecionado, podendo ser incluídas figuras, tabelas, etc.
+    * Relatório descrevendo as características do Dashboard selecionado, podendo ser incluídas figuras, tabelas, etc.
     
   * Entrega Final:
     * Relatório com aspectos da operação do Dahsboard correspondente a coleta de informações provenientes dos equipamentos da Sala 202D.
