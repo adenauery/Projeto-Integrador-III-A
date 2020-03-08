@@ -13,7 +13,7 @@
 * [Site 1](https://www.levenez.com/unix/), [Site 2](https://en.wikipedia.org/wiki/Timeline_of_operating_systems), [Site 3](https://lcomlinux.wordpress.com/a-historia-do-linux/), [Site 4](https://distrowatch.com/)
 * [Padrão POSIX](https://pt.wikipedia.org/wiki/POSIX)
 
-#### Atualizando o sistema operacional (Ubuntu)
+#### Atualizando o sistema operacional (Sistemas com base no Debian)
 * sudo su
 * apt-get update
 * apt-get upgrade
@@ -23,7 +23,7 @@
 #### Instalando um software por apt-get
 * Atualizar o sistema operacional (vide item acima)
 * Como root:
-  * apt-cache search \<parte do nome do possível pacote\>
+  * apt-cache search \<parte do nome ou funcionalidade do possível pacote\>
   * apt-get install \<nome do pacote\>
 
 #### Protocolo Git
