@@ -70,6 +70,6 @@
     * Relatório descrevendo as características do Dashboard selecionado, podendo ser incluídas figuras, tabelas, etc.
     
   * Entrega Final:
-    * Relatório incluindo aspectos da operação do Dahsboard. A coleta de informações poderá ser feita a partir de qualquer equipamento, e se necessário podem ser utilizados os equipamentos da Sala 202D    
+    * Relatório incluindo aspectos da operação do Dahsboard. A coleta de informações poderá ser feita a partir de qualquer equipamento. Se necessário podem ser utilizados os equipamentos da Sala 202D.  
       * A sala 202D é o local aonde acontecerá o Segundo Encontro Presencial
-      * O Relatório Final irá incluir a parte conceitual, já apresentada no Relatório Parcial
+      * O Relatório Final deverá incluir a parte conceitual, já contemplada no Relatório Parcial
