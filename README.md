@@ -67,9 +67,9 @@
     * Ronaldo Silva da Cunha: Google Data Studio
  
   * Entrega Parcial:
-    * Relatório descrevendo as características do Dashboard selecionado, podendo ser incluídas figuras, tabelas, etc.
+    * Relatório descrevendo as características do Dashboard selecionado, podendo ser incluídas figuras, tabelas, etc. A natureza deste relatório é conceitual, focado no entendimento de como opera o Dashboard e qual funcionalidades disponibiliza.
     
-  * Entrega Final:
+  * **Entrega Final:
     * Relatório incluindo aspectos da operação do Dahsboard. A coleta de informações poderá ser feita a partir de qualquer equipamento. Se necessário podem ser utilizados os equipamentos da Sala 202D.  
       * A sala 202D é o local aonde acontecerá o Segundo Encontro Presencial
       * O Relatório Final deverá incluir a parte conceitual, já contemplada no Relatório Parcial
