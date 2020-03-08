@@ -64,7 +64,7 @@
       * [77 Open Source, Free and Top Dashboards](https://www.predictiveanalyticstoday.com/open-source-dashboard-software/)
       
   * Dashboards Selecionados:
-    * Ronaldo: Google Data Studio
+    * Ronaldo Silva da Cunha: Google Data Studio
  
   * Entrega Parcial:
     * Relatório descrevendo as funcionalidades do Dashboard selecionado, podendo ser incluídas figuras, tabelas, etc.
