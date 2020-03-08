@@ -2,7 +2,7 @@
 
 ### Equipe
 
-  * Ronaldo Silva da Cunha - Presente em 07/03/2020
+  * Ronaldo Silva da Cunha
   
 ### Primeiro Encontro Presencial - 07/03/2020
 
