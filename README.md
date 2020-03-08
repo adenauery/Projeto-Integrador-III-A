@@ -58,17 +58,16 @@
     
  ### Avalição
  
-  * Dashboards
-    * Selecionar um Dashboar open-source ou free da relação abaixo:
+  * Selecionar um Dashboar open-source ou free da relação abaixo:
       * [77 Open Source, Free and Top Dashboards](https://www.predictiveanalyticstoday.com/open-source-dashboard-software/)
       
   * Dashboards Selecionados:
     * Ronaldo: Google Data Studio
  
-  * Entrega Parcial
-    * Relatório descrevendo as funcionalidades de um Dashboard, podendo ser incluídas figuras, tabelas, etc.
+  * Entrega Parcial:
+    * Relatório descrevendo as funcionalidades do Dashboard selecionado, podendo ser incluídas figuras, tabelas, etc.
     
-  * Entrega Final
-    * Relatório com aspectos da operação do Dahsboard corresponde a coleta de informações provenientes dos equipamentos da Sala 202 D.
+  * Entrega Final:
+    * Relatório com aspectos da operação do Dahsboard corresponde a coleta de informações provenientes dos equipamentos da Sala 202D.
       * A sala 202D é o local aonde acontecerá o Segundo Encontro Presencial
-      * O relatório final irá incluir a parte conceitual já apresentada no Reltório Parcial
+      * O relatório final irá incluir a parte conceitual, já apresentada no Reltório Parcial
