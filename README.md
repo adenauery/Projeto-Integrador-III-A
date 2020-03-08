@@ -2,7 +2,9 @@
 
 ### Equipe
 
+  * Luciano Batista da Cunha
   * Ronaldo Silva da Cunha
+  * Tiago Tessmann Oliveira
   
 ### Primeiro Encontro Presencial - 07/03/2020
 
