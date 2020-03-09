@@ -72,7 +72,7 @@
     
  
   * **Entrega Parcial:**
-    * Relatório descrevendo as características do Dashboard selecionado, podendo ser incluídas figuras, tabelas, etc. A natureza deste relatório é conceitual, focado no entendimento de como opera o Dashboard e qual funcionalidades disponibiliza.
+    * Relatório descrevendo as características do Dashboard selecionado, podendo ser incluídas figuras, tabelas, etc. A natureza deste relatório é conceitual, focado no entendimento de como opera o Dashboard e quais funcionalidades são disponibilizadas.
     
   * **Entrega Final:**
     * Relatório incluindo aspectos da operação do Dahsboard 
