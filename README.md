@@ -62,8 +62,10 @@
  
   * **Selecionar um Dashboar open-source ou free da relação abaixo:**
       * [77 Open Source, Free and Top Dashboards](https://www.predictiveanalyticstoday.com/open-source-dashboard-software/)
+      * Recomenda-se o uso de Dashboards que sejam oferecidos como serviço de nuvem, evitando a necessidade instalação.
       
   * **Dashboards Selecionados:**
+    *
     * Ronaldo Silva da Cunha: Google Data Studio
  
   * **Entrega Parcial:**
