@@ -78,4 +78,8 @@
     * Relatório incluindo aspectos da operação do Dahsboard. 
       * A coleta de informações a serem publicadas no Dashboard poderá ser feita a partir de qualquer equipamento. 
       * Se necessário podem ser utilizados os equipamentos da Sala 202D. A sala 202D é o local aonde acontecerá o Segundo Encontro Presencial
+      * Como exemplo de informações a serem coletadas teríamos: ocupação de CPU, de memória, de disco, volume instântaneo de tráfego, etc.
+      * Será realizada uma discussão dos procedimentos de captura de informações nas encontros por web conferência, bem como no Segundo Encontro presencial
+      * Como exemplo de informações a serem coletadas teríamos: ocupação de CPU, de memória, de disco, volume instântaneo de tráfego, etc.
+      * Como exemplo de informações a serem coletadas teríamos: ocupação de CPU, de memória, de disco, volume instântaneo de tráfego, etc.
       * O Relatório Final deverá incluir a parte conceitual, já contemplada no Relatório Parcial
