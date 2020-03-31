@@ -71,11 +71,13 @@
     * Ronaldo Silva da Cunha: Google Data Studio
     
  
-  * **Entrega Parcial:**
+  * **Entrega Relatório Parcial:**
+    * A data da Entrega Parcial é de 06/04 até 12/04 - Via a Plataforma Blackboard
     * Relatório descrevendo as características do Dashboard selecionado, podendo ser incluídas figuras, tabelas, etc. A natureza deste relatório é conceitual, focado no entendimento de como opera o Dashboard e quais funcionalidades são disponibilizadas.
-    A data da Entrega Parcial é de 06/04 até 12/04 - Via a Plataforma Blackboard
     
-  * **Entrega Final & Apresentação:**
+    
+  * **Entrega Relatório Final & Apresentação:**
+    * A data da Entrega Final e da Apresentação será dia 25/04 a partir das 14:00 h
     * Relatório incluindo aspectos da operação do Dahsboard 
       * A coleta de informações a serem publicadas no Dashboard poderá ser feita a partir de qualquer equipamento
       * Se necessário podem ser utilizados os equipamentos da Sala 202D. A sala 202D é o local aonde acontecerá o Segundo Encontro Presencial
@@ -83,7 +85,5 @@
       * Serão realizadas discussões de procedimentos de captura de informações nas encontros por web conferência, bem como no Segundo Encontro presencial
       * Como exemplo de informações a serem coletadas teríamos: ocupação de CPU, de memória, de disco, volume instântaneo de tráfego, etc.
       * O Relatório Final deverá incluir a parte conceitual, já contemplada no Relatório Parcial
-      * O Relatório Final deverá incluir a parte conceitual, já contemplada no Relatório Parcial
-      * O Relatório Final deverá incluir a parte conceitual, já contemplada no Relatório Parcial
-   * Apresentaçã
-      * O Relatório Final deverá incluir a parte conceitual, já contemplada no Relatório Parcialo 
+   * Apresentação 
+      * Deverá ser elaborada uma apresentação com duração entre 15 e 30 minutos discorrendo sobre o Dashboard trabalhado 
