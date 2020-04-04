@@ -132,4 +132,18 @@ function doGet(e)
 ~~~
 #### Coletando Informações do Meio
   * Empregando Shell Script
+~~~
+#!/bin/bash
+while :
+do
+CPU_USAGE=$(top -b -n2 -p 1 | fgrep "Cpu(s)" | tail -1 | awk -F'id,' -v prefix="$prefix" '{ split($1, vs, ","); v=vs[length(vs)]; sub("%", "", v); printf "%s%.4f\n", prefix, 100 - v }')
+
+cpu=`(echo $CPU_USAGE | tr . ,)`
+
+echo "Enviando a carga atual da CPU para o Google";
+wget https://script.google.com/macros/s/AKfycbyqNdmcL8fv3elwt77DrcBYt3VPykl5rmZ9QsK4nLZRbBZcbkgm/exec?cpu=$cpu 2> /dev/null -O /dev/null;
+
+sleep 10;
+done
+~~~
   * Empregando uma linguagem de programação
