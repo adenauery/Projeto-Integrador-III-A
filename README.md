@@ -106,6 +106,30 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
 }
 ~~~
   * Visualizando os dados: [Exemplo 1](https://fazerlab.wordpress.com/2017/10/30/grafico-dinamico-com-google-script-e-planilha/)
+~~~
+var planilha = SpreadsheetApp.openById("1uw3kIEHct32iNtlecpOtddExPNEQ6b4A38MZp5HWfLk"); 
+var sheet = planilha.getActiveSheet();
+
+function doGet(e)
+{
+  var linhas = sheet.getLastRow();
+  var rec_cpu = e.parameter.cpu;
+  sheet.appendRow([linhas, rec_cpu]); 
+  //atualizacao: grafico
+  var range = sheet.getRange("A1:B120")
+  var chart = sheet.getCharts()[0];
+  chart = chart.modify()
+     .addRange(range)
+     .setOption('title', 'Updated!')
+     .setOption('animation.duration', 500)
+     .setPosition(5,5,0,0)
+     .build();
+   sheet.updateChart(chart);
+  
+  //retorna msg para cliente
+  return ContentService.createTextOutput("Carga CPU Recebida");
+}
+~~~
 #### Coletando Informações do Meio
   * Empregando Shell Script
   * Empregando uma linguagem de programação
