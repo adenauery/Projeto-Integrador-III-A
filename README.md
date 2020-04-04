@@ -87,3 +87,9 @@
       * O Relatório Final deverá incluir a parte conceitual, já contemplada no Relatório Parcial
     * Apresentação 
       * Deverá ser elaborada uma apresentação com duração entre 15 e 30 minutos discorrendo sobre o Dashboard trabalhado 
+
+### Segundo Encontro Presencial - 04/04/2020
+ 
+#### Gravando Coletados em uma Plataforma de Nuvem
+  * Registro histórico dos dados: [Exemplo 1](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
+  * Visualizando os dados: [Exemplo 1](https://fazerlab.wordpress.com/2017/10/30/grafico-dinamico-com-google-script-e-planilha/)
