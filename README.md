@@ -91,9 +91,9 @@
 
 ### Segundo Encontro Presencial - 04/04/2020
  
-#### Gravando Coletados em uma Plataforma de Nuvem
+#### Gravando Dados Coletados em uma Plataforma de Nuvem
   * Registro histórico dos dados: [Exemplo 1](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
   * Visualizando os dados: [Exemplo 1](https://fazerlab.wordpress.com/2017/10/30/grafico-dinamico-com-google-script-e-planilha/)
-#### Coletando Informações 
+#### Coletando Informações do Meio
   * Empregando Shell Script
   * Empregando uma linguagem de programação
