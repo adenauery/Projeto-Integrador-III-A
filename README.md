@@ -148,4 +148,8 @@ done
 ~~~
   * Empregando uma linguagem de programação
   
-  ## Fone Adenauer: (53) 99112.3478
+#### Transmitindo Informações do Meio para um Servidor
+  * [Protocolo MQTT - Material IBM](https://www.ibm.com/developerworks/br/library/iot-mqtt-why-good-for-iot/index.html)
+  * [Protocolo MQTT - Material Curto Circuito](https://www.curtocircuito.com.br/blog/introducao-ao-mqtt/)
+  * [Slides sobre MQTT - Material UFC](https://pt.slideshare.net/MaurcioMoreiraNeto/protocolo-mqtt-redes-de-computadores)
+
