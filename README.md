@@ -148,7 +148,7 @@ done
 ~~~
   * Empregando uma linguagem de programação
   
-#### Transmitindo Informações do Meio para um Servidor
+#### Transmitindo Informações Sensoriadas do Meio para um Servidor
   * Conceitos
     * [Protocolo MQTT - Material IBM](https://www.ibm.com/developerworks/br/library/iot-mqtt-why-good-for-iot/index.html)
     * [Protocolo MQTT - Material Curto Circuito](https://www.curtocircuito.com.br/blog/introducao-ao-mqtt/)
