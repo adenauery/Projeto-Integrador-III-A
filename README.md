@@ -158,6 +158,9 @@ done
     * [Brokers MQTT gratuitos e pagos para utilizar em projetos da IoT](https://mntolia.com/10-free-public-private-mqtt-brokers-for-testing-prototyping/)
     * [Explorando o uso de MQTT em Programas Python](https://fazbe.github.io/Usando-o-paho-mqtt-para-Python/)
 
+#### Comunicando com um Broker MQTT utilizando Python
+
+### Procedimento de Subscrição
 ~~~
 # Cliente Python para subscrever em um Broker MQTT
 #
@@ -193,4 +196,13 @@ client.connect("mqtt.eclipse.org", 1883, 60)
 # Inicia o loop
 client.loop_forever()
 ~~~
+### Procedimento de Publicação
+~~~
+# Ensures paho is in PYTHONPATH
+import context
+# Importa o publish do paho-mqtt
+import paho.mqtt.publish as publish
 
+# Publica
+publish.single("PI-3A", "Olá Mundo!", hostname="mqtt.eclipse.org")
+~~~
