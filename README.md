@@ -160,7 +160,7 @@ done
 
 #### Comunicando com um Broker MQTT utilizando Python
 
-### Procedimento de Subscrição
+##### Procedimento de Subscrição
 ~~~
 # Cliente Python para subscrever em um Broker MQTT
 #
@@ -196,7 +196,7 @@ client.connect("mqtt.eclipse.org", 1883, 60)
 # Inicia o loop
 client.loop_forever()
 ~~~
-### Procedimento de Publicação
+##### Procedimento de Publicação
 ~~~
 # Ensures paho is in PYTHONPATH
 import context
