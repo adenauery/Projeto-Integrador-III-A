@@ -68,8 +68,8 @@
     
     Informar qual Dashboard foi selecionado para o Professor Responsável utilizando o email adenauer.yamin@ucpel.edu.br
     
-    * Ronaldo Silva da Cunha: Google Data Studio
-    * Tiago Tessmann Oliveira: Google Docs enquanto Dashboard dinâmico
+    * Ronaldo Silva da Cunha: *Google Data Studio*
+    * Tiago Tessmann Oliveira: *Google Docs enquanto Dashboard dinâmico*
     
  
   * **Entrega Relatório Parcial:**
