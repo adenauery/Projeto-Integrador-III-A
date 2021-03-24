@@ -11,7 +11,7 @@
 * PAULO ARMANDO DA SILVA ALVES
 * RODRIGO VALADÃO
   
-### Primeiro Encontro Presencial - 07/03/2020
+### Primeiro Encontro Presencial - 27/03/2021
 
 #### Visão Geral da IoT
   * [Slides Introdutórios](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=iot_visao_geral.pdf)
@@ -83,7 +83,7 @@
     
     
   * **Entrega Relatório Final & Apresentação:**
-    * A data da Entrega Final e da Apresentação será dia 25/04 a partir das 14:00 h
+    * A data da Entrega Final e da Apresentação será dia 08/05/2021 a partir das 14:00 h 
     * Relatório incluindo aspectos da operação do Dahsboard 
       * A coleta de informações a serem publicadas no Dashboard poderá ser feita a partir de qualquer equipamento
       * Se necessário podem ser utilizados os equipamentos da Sala 202D. A sala 202D é o local aonde acontecerá o Segundo Encontro Presencial
@@ -94,7 +94,7 @@
     * Apresentação 
       * Deverá ser elaborada uma apresentação com duração entre 15 e 30 minutos discorrendo sobre o Dashboard trabalhado 
 
-### Segundo Encontro Presencial - 04/04/2020
+### Segundo Encontro Presencial - 24/04/2021
  
 #### Gravando Dados Coletados em uma Plataforma de Nuvem
   * Registro histórico dos dados: [Exemplo 1](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
