@@ -3,8 +3,8 @@
 ### Equipe
 
 Grupo 1:
-* GUILHERME DE SOUZA DIAS
-* PABLO DE SOUZA LOPES
+* Guilherme de Souza Dias
+* Pablo de Souza Lopes
 
 * GX - BRUNO LEMKE DOS SANTOS
 * GX - EMERSON BARBOSA DE MEDEIROS
