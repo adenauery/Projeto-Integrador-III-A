@@ -6,6 +6,7 @@ Grupo 1:
 * Guilherme de Souza Dias
 * Pablo de Souza Lopes
 
+Grupos a Serem Definidos:
 * GX - BRUNO LEMKE DOS SANTOS
 * GX - EMERSON BARBOSA DE MEDEIROS
 * GX - HENDRIO BUTTOW PEREIRA
