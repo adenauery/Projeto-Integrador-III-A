@@ -2,9 +2,14 @@
 
 ### Equipe
 
-  * Luciano Batista da Cunha - [Relatório Parcial](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=luciano_batista_da_cunha-pi3-a-relatorio-parcial.pdf)
-  * Ronaldo Silva da Cunha - [Relatório Parcial](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=ronaldo_silva_da_cunha-pi3-a-relatorio-parcial.pdf)
-  * Tiago Tessmann Oliveira - [Relatório Parcial](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=tiago_tessmann_oliveira-pi3-a-relatorio-parcial.pdf)
+* BRUNO LEMKE DOS SANTOS
+* EMERSON BARBOSA DE MEDEIROS
+* GUILHERME DE SOUZA DIAS
+* HENDRIO BUTTOW PEREIRA
+* MARCELO SOUZA DA ROSA
+* PABLO DE SOUZA LOPES
+* PAULO ARMANDO DA SILVA ALVES
+* RODRIGO VALADÃO
   
 ### Primeiro Encontro Presencial - 07/03/2020
 
