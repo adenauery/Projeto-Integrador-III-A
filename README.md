@@ -81,12 +81,15 @@ Grupos a Serem Definidos:
     
  
   * **Entrega Relatório Parcial:**
-    * A data da Entrega Parcial é de 06/04 até 12/04 - Via a Plataforma Blackboard
+    * A data da Entrega Parcial é de 05/04 até 11/04 via a Plataforma Blackboard
     * Relatório descrevendo as características do Dashboard selecionado, podendo ser incluídas figuras, tabelas, etc. A natureza deste relatório é conceitual, focado no entendimento de como opera o Dashboard e quais funcionalidades são disponibilizadas.
     
     
-  * **Entrega Relatório Final & Apresentação:**
-    * A data da Entrega Final e da Apresentação será dia 08/05/2021 a partir das 14:00 h 
+  * **Entrega Relatório Final** 
+  * A data da Entrega Parcial é de 26/04 até 27/04 às 23:59h
+   
+  * **Apresentação do Relatório Final:**
+    * Apresentação do Relatório Final será dia 08/05/2021 a partir das 14:00 h 
     * Relatório incluindo aspectos da operação do Dahsboard 
       * A coleta de informações a serem publicadas no Dashboard poderá ser feita a partir de qualquer equipamento
       * Se necessário podem ser utilizados os equipamentos da Sala 202D. A sala 202D é o local aonde acontecerá o Segundo Encontro Presencial
