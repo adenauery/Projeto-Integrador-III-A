@@ -63,7 +63,7 @@ Grupos a Serem Definidos:
       * [Integrando Bash e Python](http://olaria.ucpel.edu.br/materiais/doku.php?id=integrando-bash-python)
 
   * Exemplos de Dahsboard
-    * https://thingsboard.io/
+    * [Dashboards para IoT](http://olaria.ucpel.edu.br/materiais/doku.php?id=plataformas_nuvem_iot)
     * [Dahsboards para Linux](https://homelaber.com.br/linux-dashboards-ferramentas-simples-para-monitorar-o-seu-servidor-linux/)
     
  ### Avaliação
@@ -78,8 +78,6 @@ Grupos a Serem Definidos:
   * **Dashboards Selecionados:**
     
     Informar qual Dashboard foi selecionado pelo grupo para o Professor Responsável utilizando o email adenauer.yamin@ucpel.edu.br
-    
-  
     
  
   * **Entrega Relatório Parcial:**
