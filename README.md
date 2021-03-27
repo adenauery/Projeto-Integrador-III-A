@@ -2,7 +2,7 @@
 
 ### Equipe
 
-Grupo 1:
+**Grupo 1:**
 * Guilherme de Souza Dias
 * Pablo de Souza Lopes
 
