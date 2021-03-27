@@ -17,7 +17,7 @@ Grupos a Serem Definidos:
 ### Primeiro Encontro Presencial - 27/03/2021
 
 #### Visão Geral da IoT
-  * [Slides Introdutórios](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=iot_visao_geral.pdf)
+  * [Slides Introdutórios](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=internet_das_coisas_iot.pdf)
 
 #### História do Unix
 * [Site 1](https://www.levenez.com/unix/), [Site 2](https://en.wikipedia.org/wiki/Timeline_of_operating_systems), [Site 3](https://lcomlinux.wordpress.com/a-historia-do-linux/), [Site 4](https://distrowatch.com/)
