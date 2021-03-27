@@ -1,17 +1,3 @@
-### Redes de Computadores
-#### Projeto Integrador III-A
-
-
-O wiki do GitHub oferece vários recursos, o que auxilia sobremaneira a criação de tutorias sobre os programas desenvolvidos. Por exemplo:
-
-* inclusão de imagens;
-* formatação de caracteres;
-* uso de links, etc.
-
-
-
-
-
 ## Projeto Integrador III-A - Redes de Computadores
 
 ### Equipe
