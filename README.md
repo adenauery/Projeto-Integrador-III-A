@@ -104,7 +104,7 @@
       * Como exemplo de informações a serem coletadas teríamos: ocupação de CPU, de memória, de disco, volume instântaneo de tráfego, etc.
       * Serão realizadas discussões de procedimentos de captura de informações nas encontros por web conferência, bem como no Segundo Encontro presencial
       * Como exemplo de informações a serem coletadas teríamos: ocupação de CPU, de memória, de disco, volume instântaneo de tráfego, etc.
-      * O Relatório Final deverá incluir a parte conceitual, já contemplada no Relatório Parcial
+      * O Relatório Final **deverá incluir a parte conceitual, já contemplada no Relatório Parcial**
     * Apresentação 
       * Deverá ser elaborada uma apresentação com duração entre 15 e 30 minutos discorrendo sobre o Dashboard trabalhado 
 
