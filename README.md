@@ -6,13 +6,17 @@
 * Guilherme de Souza Dias
 * Pablo de Souza Lopes
 
-Grupos a Serem Definidos:
-* GX - Bruno Lemke dos Santos
-* GX - Emerson Barbosa de Medeiros
-* GX - Hendrio Buttow Pereira
-* GX - Marcelo Souza da Rosa
-* GX - Paulo Armando da Silva Alves
-* GX - Rodrigo Valadão
+**Grupo 2:**
+* Bruno Lemke dos Santos
+* Emerson Barbosa de Medeiros
+
+**Grupo 3:**
+* Hendrio Buttow Pereira
+* Marcelo Souza da Rosa
+
+**Grupo 4:**
+* Paulo Armando da Silva Alves
+* Rodrigo Valadão
   
 ### Primeiro Encontro Presencial - 27/03/2021
 
