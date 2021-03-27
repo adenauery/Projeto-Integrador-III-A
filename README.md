@@ -80,17 +80,13 @@
     
  ### Avaliação
  
-  * **Selecionar um Dashboard da relação abaixo:**
+  * **Cada grupo irá ficar responsável por um dashboard, conforme a seguir:**
 
-      * [Konker](http://www.konkerlabs.com)
-      * [ThingSpeak](https://thingspeak.com/)
-      * [Tago IO](https://tago.io/)
-      * [Ubidots](https://ubidots.com/stem/)
+      * Grupo 1: [Konker](http://www.konkerlabs.com)
+      * Grupo 2: [ThingSpeak](https://thingspeak.com/)
+      * Grupo 3: [Tago IO](https://tago.io/)
+      * Grupo 4: [Ubidots](https://ubidots.com/stem/)
       
-  * **Dashboards Selecionados:**
-    
-    Informar qual Dashboard foi selecionado pelo grupo para o Professor Responsável utilizando o email adenauer.yamin@ucpel.edu.br
-    
  
   * **Entrega Relatório Parcial:**
     * A data da Entrega Parcial é de **05/04 até 11/04** via a Plataforma Blackboard
