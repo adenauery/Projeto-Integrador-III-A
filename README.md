@@ -27,6 +27,10 @@
 * [Site 1](https://www.levenez.com/unix/), [Site 2](https://en.wikipedia.org/wiki/Timeline_of_operating_systems), [Site 3](https://lcomlinux.wordpress.com/a-historia-do-linux/), [Site 4](https://distrowatch.com/)
 * [Padrão POSIX](https://pt.wikipedia.org/wiki/POSIX)
 
+#### Explorando Máquinas Virtuais para Instalação de uma Distribuição Linux
+* [Virtual Box](https://www.virtualbox.org/)
+* [Linux Mint](https://linuxmint.com/)
+
 #### Atualizando o sistema operacional (Sistemas com base no Debian)
 * sudo su
 * apt-get update
