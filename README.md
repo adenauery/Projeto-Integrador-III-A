@@ -7,12 +7,12 @@
 * Pablo de Souza Lopes
 
 Grupos a Serem Definidos:
-* GX - BRUNO LEMKE DOS SANTOS
-* GX - EMERSON BARBOSA DE MEDEIROS
-* GX - HENDRIO BUTTOW PEREIRA
-* GX - MARCELO SOUZA DA ROSA
-* GX - PAULO ARMANDO DA SILVA ALVES
-* GX - RODRIGO VALADÃO
+* GX - Bruno Lemke dos Santos
+* GX - Emerson Barbosa de Medeiros
+* GX - Hendrio Buttow Pereira
+* GX - Marcelo Souza da Rosa
+* GX - Paulo Armando da Silva Alves
+* GX - Rodrigo Valadão
   
 ### Primeiro Encontro Presencial - 27/03/2021
 
@@ -68,16 +68,18 @@ Grupos a Serem Definidos:
     
  ### Avaliação
  
-  * **Selecionar um Dashboar open-source ou free da relação abaixo:**
-      * [77 Open Source, Free and Top Dashboards](https://www.predictiveanalyticstoday.com/open-source-dashboard-software/)
-      * Recomenda-se o uso de Dashboards que sejam oferecidos como serviço de nuvem, evitando a necessidade instalação.
+  * **Selecionar um Dashboard da relação abaixo:**
+
+      * [Konker](http://www.konkerlabs.com)
+      * [ThingSpeak](https://thingspeak.com/)
+      * [Tago IO](https://tago.io/)
+      * [Ubidots](https://ubidots.com/stem/)
       
   * **Dashboards Selecionados:**
     
-    Informar qual Dashboard foi selecionado para o Professor Responsável utilizando o email adenauer.yamin@ucpel.edu.br
+    Informar qual Dashboard foi selecionado pelo grupo para o Professor Responsável utilizando o email adenauer.yamin@ucpel.edu.br
     
-    * Ronaldo Silva da Cunha: **Google Data Studio**
-    * Tiago Tessmann Oliveira: **Google Docs enquanto Dashboard dinâmico**
+  
     
  
   * **Entrega Relatório Parcial:**
