@@ -91,6 +91,7 @@
   * **Entrega Relatório Parcial:**
     * A data da Entrega Parcial é de **05/04 até 11/04** via a Plataforma Blackboard
     * Relatório descrevendo as características do Dashboard selecionado, podendo ser incluídas figuras, tabelas, etc. A natureza deste relatório é conceitual, focado no entendimento de como opera o Dashboard e quais funcionalidades são disponibilizadas.
+    * O arquivo a ser submetido pode estar em formato do MS-Word ou PDF
     
     
   * **Entrega Relatório Final** 
