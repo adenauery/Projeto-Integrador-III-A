@@ -60,7 +60,10 @@ Grupos a Serem Definidos:
     * Exemplos de Scripts:
       * [Filtro CPU e Memória](http://olaria.ucpel.edu.br/materiais/doku.php?id=script-filtro-informacoes)
       * [Captura Informações Dinâmicas](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=script-cpu-dinamico.sh.zip)
-      * [Integrando Bash e Python](http://olaria.ucpel.edu.br/materiais/doku.php?id=integrando-bash-python)
+ 
+  * A linguagem Python
+    * [Aprendendo Python](https://wiki.python.org.br/AprendaProgramar)
+    * [Integrando Bash e Python](http://olaria.ucpel.edu.br/materiais/doku.php?id=integrando-bash-python)
 
   * Exemplos de Dahsboard
     * [Dashboards para IoT](http://olaria.ucpel.edu.br/materiais/doku.php?id=plataformas_nuvem_iot)
