@@ -99,12 +99,12 @@
   * **Apresentação do Relatório Final:**
     * Apresentação do Relatório Final será dia **08/05/2021 a partir das 14:00 h** 
     * Relatório incluindo aspectos da operação do Dahsboard 
+      * O Relatório Final, no seu início **deverá incluir a parte conceitual, já contemplada no Relatório Parcial**
       * A coleta de informações a serem publicadas no Dashboard poderá ser feita a partir de qualquer equipamento
       * Se necessário podem ser utilizados os equipamentos da Sala 202D. A sala 202D é o local aonde acontecerá o Segundo Encontro Presencial
       * Como exemplo de informações a serem coletadas teríamos: ocupação de CPU, de memória, de disco, volume instântaneo de tráfego, etc.
       * Serão realizadas discussões de procedimentos de captura de informações nas encontros por web conferência, bem como no Segundo Encontro presencial
       * Como exemplo de informações a serem coletadas teríamos: ocupação de CPU, de memória, de disco, volume instântaneo de tráfego, etc.
-      * O Relatório Final **deverá incluir a parte conceitual, já contemplada no Relatório Parcial**
     * Apresentação 
       * Deverá ser elaborada uma apresentação com duração entre 15 e 30 minutos discorrendo sobre o Dashboard trabalhado 
 
