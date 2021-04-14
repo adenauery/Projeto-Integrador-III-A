@@ -28,7 +28,7 @@
 * [Padrão POSIX](https://pt.wikipedia.org/wiki/POSIX)
 
 #### Explorando Máquinas Virtuais para Instalação de uma Distribuição Linux
-* Virtualizador sugerido: [Virtual Box](https://www.virtualbox.org/)
+* Virtualizador sugerido: [Virtual Box](https://www.virtualbox.org/) instalar também o Extension Pack
 * Distribuição sugerida: [Linux Mint](https://linuxmint.com/)
 
 #### Atualizando o sistema operacional (Sistemas com base no Debian)
