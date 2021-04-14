@@ -86,7 +86,11 @@
       * Grupo 2: [ThingSpeak](https://thingspeak.com/) - Bruno
       * Grupo 3: [Tago IO](https://tago.io/)
       * Grupo 4: [Ubidots](https://ubidots.com/stem/) - Paulo e Rodrigo
-      
+     
+  * **Ferramentas para Análise Estatística de Grandes Volumes de Dados:**     
+      * https://pt.wikipedia.org/wiki/Scilab (Open Source)
+      * https://pt.wikipedia.org/wiki/MATLAB (Proprietária)
+     
  
   * **Entrega Relatório Parcial:**
     * A data da Entrega Parcial é de **05/04 até 11/04** via a Plataforma Blackboard
