@@ -99,7 +99,7 @@
     
     
   * **Entrega Relatório Final** 
-    * A data da Entrega Parcial é de **26/04 até 27/04** às 23:59h
+    * O período para a Entrega Final é de **26/04 até 27/04** às 23:59h
    
   * **Apresentação do Relatório Final:**
     * Apresentação do Relatório Final será dia **08/05/2021 a partir das 14:00 h** 
