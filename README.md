@@ -113,6 +113,13 @@
     * Apresentação 
       * Deverá ser elaborada uma apresentação com duração entre 15 e 30 minutos discorrendo sobre o Dashboard trabalhado 
 
+### Exemplo de Uso do LaTeX
+
+  * [Exemplo de Texto](https://www.overleaf.com/read/cqtvqphcvnyd)
+  * [Exemplo de Apresentação](https://www.overleaf.com/read/dwthrxtnchbb)
+  
+
+
 ### Segundo Encontro Presencial - 24/04/2021
  
 #### Gravando Dados Coletados em uma Plataforma de Nuvem
