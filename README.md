@@ -194,6 +194,8 @@ done
 
 #### Comunicando com um Broker MQTT utilizando Python
 
+  * [Python Brasil](https://python.org.br/)
+
 ##### Procedimento de Subscrição
 ~~~
 # Cliente Python para subscrever em um Broker MQTT
