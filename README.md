@@ -194,8 +194,7 @@ done
 
 #### Comunicando com um Broker MQTT utilizando Python
 
-No link a seguir, dicas de como instalar e utilizar o Python:
-  * [Python Brasil](https://python.org.br/)
+No link a seguir, dicas de como instalar e utilizar o Python: **[Python Brasil](https://python.org.br/)**
 
 ##### Procedimento de Subscrição
 ~~~
