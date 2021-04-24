@@ -100,6 +100,18 @@
     
   * **Entrega Relatório Final** 
     * O período para a Entrega Final é de **26/04 até 27/04** às 23:59h
+
+Para monitorar a ocupação de CPU utilizar um programa para gerar carga sintética, como o abaixo escrito em Bash:
+˜˜˜
+while [ 1 ]
+do
+a=7.11/6.79
+done
+˜˜˜
+
+  * Para tornar executável utilizar no terminal o comando chmod 755 <nome-do-programa>
+  * Para executar utilizar ./<nome-do-programa>
+
    
   * **Apresentação do Relatório Final:**
     * Apresentação do Relatório Final será dia **08/05/2021 a partir das 14:00 h** 
