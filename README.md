@@ -103,8 +103,9 @@
    
   * **Apresentação do Relatório Final:**
     * Apresentação do Relatório Final será dia **08/05/2021 a partir das 14:00 h** 
-    * Relatório incluindo aspectos da operação do Dahsboard 
-      * O Relatório Final, no seu início **deverá incluir a parte conceitual, já contemplada no Relatório Parcial**
+    * Avaliar utilizar o Google Docs para produzir de forma colaborativa a apresentação. Vide exemplo neste [link](https://docs.google.com/presentation/d/1CaY3PK5XJZ73Zojp6r_omlfoj-3kg-suxOLtwOEI6rg/edit?usp=sharing) (mesmo disponível abaixo)
+    * Entrega Final incluindo diferentes aspectos da operação do Dahsboard 
+      * O Relatório correspondente a Entrega Final, no seu início **deverá incluir a parte conceitual, já contemplada no Entrega Parcial**
       * A coleta de informações a serem publicadas no Dashboard poderá ser feita a partir de qualquer equipamento
       * Se necessário podem ser utilizados os equipamentos da Sala 202D. A sala 202D é o local aonde acontecerá o Segundo Encontro Presencial
       * Como exemplo de informações a serem coletadas teríamos: ocupação de CPU, de memória, de disco, volume instântaneo de tráfego, etc.
@@ -113,13 +114,12 @@
     * Apresentação 
       * Deverá ser elaborada uma apresentação com duração entre 15 e 30 minutos discorrendo sobre o Dashboard trabalhado 
 
-### Exemplo de Uso do LaTeX
+  * **Exemplo de Uso do LaTeX**
+    * [Exemplo de Texto](https://www.overleaf.com/read/cqtvqphcvnyd)
+    * [Exemplo de Apresentação](https://www.overleaf.com/read/dwthrxtnchbb)
 
-  * [Exemplo de Texto](https://www.overleaf.com/read/cqtvqphcvnyd)
-  * [Exemplo de Apresentação](https://www.overleaf.com/read/dwthrxtnchbb)
-
-### Exemplo de Apresentação explorando o Google Docs
-  * [Exemplo de Apresentação](https://docs.google.com/presentation/d/1CaY3PK5XJZ73Zojp6r_omlfoj-3kg-suxOLtwOEI6rg/edit?usp=sharing)
+  * **Exemplo de Apresentação explorando o Google Docs**
+    * [Exemplo de Apresentação](https://docs.google.com/presentation/d/1CaY3PK5XJZ73Zojp6r_omlfoj-3kg-suxOLtwOEI6rg/edit?usp=sharing)
 
 
 ### Segundo Encontro Presencial - 24/04/2021
