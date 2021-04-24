@@ -117,7 +117,9 @@
 
   * [Exemplo de Texto](https://www.overleaf.com/read/cqtvqphcvnyd)
   * [Exemplo de Apresentação](https://www.overleaf.com/read/dwthrxtnchbb)
-  
+
+### Exemplo de Apresentação explorando o Google Docs
+  * [Exemplo de Apresentação](https://docs.google.com/presentation/d/1CaY3PK5XJZ73Zojp6r_omlfoj-3kg-suxOLtwOEI6rg/edit?usp=sharing)
 
 
 ### Segundo Encontro Presencial - 24/04/2021
