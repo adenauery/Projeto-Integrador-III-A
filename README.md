@@ -83,7 +83,7 @@
   * **Cada grupo irá ficar responsável por um dashboard, conforme a seguir:**
 
       * Grupo 1: [Konker](http://www.konkerlabs.com) - Pablo e Guilherme
-      * Grupo 2: [ThingSpeak](https://thingspeak.com/) - Bruno
+      * Grupo 2: [ThingSpeak](https://thingspeak.com/) - Bruno - [Como postar por MQTT](https://nothans.com/thingspeak-tutorials/update-a-thingspeak-channel-using-mqtt-on-a-raspberry-pi)
       * Grupo 3: [Tago IO](https://tago.io/)
       * Grupo 4: [Ubidots](https://ubidots.com/stem/) - Paulo e Rodrigo
      
