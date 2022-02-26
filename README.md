@@ -53,7 +53,7 @@ Para uso do Bash, abaixo algumas opções:
 * apt-get upgrade
 * apt-get autoremove (se necessário)
 
-#### Instalando um software por apt-get
+#### Instalando um software por apt-get via terminal
 * Atualizar o sistema operacional (vide item acima)
 * Como root:
   * apt-cache search \<parte do nome ou funcionalidade do possível pacote\>
