@@ -18,6 +18,9 @@
 * Paulo Armando da Silva Alves
 * Rodrigo Valadão
   
+  
+[//]: # (This may be the most platform independent comment)
+  
 ### Primeiro Encontro Presencial - 27/03/2021
 
 #### Visão Geral da IoT
