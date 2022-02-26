@@ -18,14 +18,14 @@ Os grupos devem ser compostos com o total de integrantes variando de 1 a 3.
 
 * **Grupo 1:**
   * NATANAELE BARROS MACHADO
+  * EMERSON BARBOSA DE MEDEIROS
 * **Grupo 2:**
   * ANDERSON FERNANDES MOREIRA
   * DIOGO BITENCOURT NEUENFELD
 * **Grupo 3:**
   * DIONATHAN MORAES FUHRMANN
-  * EMERSON BARBOSA DE MEDEIROS
-* **Grupo 4:**
   * LUCIANO COUTO DA SILVA
+* **Grupo 4:**
   * RANIERI MARTINS DA SILVA
   * RODRIGO DOS SANTOS OLMOS
  
