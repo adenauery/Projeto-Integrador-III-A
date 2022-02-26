@@ -16,16 +16,16 @@ Neste **[link](https://docs.google.com/document/d/1zdyfHIcCNcf-rySs3LN2_LurPBLUw
 
 Os grupos devem ser compostos com o total de integrantes variando de 1 a 3.
 
-* **Grupo 1:**
+* **Grupo 1:** Konker http://www.konkerlabs.com/
   * NATANAELE BARROS MACHADO
   * EMERSON BARBOSA DE MEDEIROS
-* **Grupo 2:**
+* **Grupo 2:** Thingsboard https://thingsboard.io 
   * ANDERSON FERNANDES MOREIRA
   * DIOGO BITENCOURT NEUENFELD
-* **Grupo 3:**
+* **Grupo 3:** ThingSpeak https://thingspeak.com/.
   * DIONATHAN MORAES FUHRMANN
   * LUCIANO COUTO DA SILVA
-* **Grupo 4:**
+* **Grupo 4:** Ubidots https://ubidots.com/stem/ 
   * RANIERI MARTINS DA SILVA
   * RODRIGO DOS SANTOS OLMOS
  
