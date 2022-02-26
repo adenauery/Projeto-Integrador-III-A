@@ -100,6 +100,7 @@
     * Relatório descrevendo as características do Dashboard selecionado, podendo ser incluídas figuras, tabelas, etc. A natureza deste relatório é conceitual, focado no entendimento de como opera o Dashboard e quais funcionalidades são disponibilizadas.
     * O arquivo a ser submetido pode estar em formato do MS-Word ou PDF
     
+<!--
     
   * **Entrega Relatório Final** 
     * O período para a Entrega Final é de **26/04 até 27/04** às 23:59h
@@ -258,3 +259,5 @@ import paho.mqtt.publish as publish
 # Publica
 publish.single("PI-3A", "Olá Mundo!", hostname="mqtt.eclipse.org")
 ~~~
+
+-->
