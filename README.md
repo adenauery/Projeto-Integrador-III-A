@@ -74,6 +74,19 @@ Neste **[link](https://docs.google.com/document/d/1zdyfHIcCNcf-rySs3LN2_LurPBLUw
       * [Filtro CPU e Memória](http://olaria.ucpel.edu.br/materiais/doku.php?id=script-filtro-informacoes)
       * [Captura Informações Dinâmicas](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=script-cpu-dinamico.sh.zip)
 
+  * Para monitorar a ocupação de CPU utilizar um programa para gerar carga sintética, como o abaixo escrito em Bash:
+
+~~~
+while [ 1 ]
+do
+a=7.11/6.79
+done
+~~~
+
+  * Para tornar executável utilizar no terminal o comando **chmod 755 nome-do-programa.sh**
+  * Para executar utilizar **./nome-do-programa.sh**
+
+
   * Ferramentas para Monitoramento no Cenário da IoT
     * [Dashboards para IoT](http://olaria.ucpel.edu.br/materiais/doku.php?id=plataformas_nuvem_iot)
     
