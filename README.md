@@ -51,7 +51,6 @@ Para uso do Bash, abaixo algumas opções:
 * sudo su
 * apt-get update
 * apt-get upgrade
-* apt-get dist-upgrade (se necessário)
 * apt-get autoremove (se necessário)
 
 #### Instalando um software por apt-get
