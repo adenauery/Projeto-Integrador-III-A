@@ -23,6 +23,8 @@ Neste **[link](https://docs.google.com/document/d/1zdyfHIcCNcf-rySs3LN2_LurPBLUw
 * RANIERI MARTINS DA SILVA
 * RODRIGO DOS SANTOS OLMOS
 
+Os grupos devem ser compostos com o total de integrantes variando de 1 a 3.
+
 * **Grupo 1:**
 * **Grupo 2:**
 * **Grupo 3:**
