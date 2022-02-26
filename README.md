@@ -94,20 +94,15 @@ a=7.11/6.79
 done
 ~~~
 
+  * Broker MQTT utilizado: 
+    * URL: broker.emqx.io
+    * Porta: 1883
+
   * Para tornar executável utilizar no terminal o comando **chmod 755 nome-do-programa.sh**
   * Para executar utilizar **./nome-do-programa.sh**
 
   * Plataformas para Monitoramento no Cenário da IoT
     * [Principais Alternativas Dispníveis](http://olaria.ucpel.edu.br/materiais/doku.php?id=plataformas_nuvem_iot)
-    
- ### Avaliação
- 
-  * **Cada grupo irá ficar responsável por um dashboard, conforme a seguir:**
-
-      * Grupo 1: 
-      * Grupo 2: 
-      * Grupo 3: 
-      * Grupo 4: 
      
      
  #### Transmitindo Informações Sensoriadas do Meio para um Servidor
