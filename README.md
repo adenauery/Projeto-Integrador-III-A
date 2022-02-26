@@ -14,10 +14,6 @@ Neste **[link](https://docs.google.com/document/d/1zdyfHIcCNcf-rySs3LN2_LurPBLUw
 
 ### Equipe Acadêmica
 
-
-
-
-
 Os grupos devem ser compostos com o total de integrantes variando de 1 a 3.
 
 * **Grupo 1:**
@@ -43,8 +39,13 @@ Os grupos devem ser compostos com o total de integrantes variando de 1 a 3.
 * [Padrão POSIX](https://pt.wikipedia.org/wiki/POSIX)
 
 #### Explorando Máquinas Virtuais para Instalação de uma Distribuição Linux
-* Virtualizador sugerido: [Virtual Box](https://www.virtualbox.org/) instalar também o Extension Pack
-* Distribuição sugerida: [Linux Mint](https://linuxmint.com/)
+
+Para uso do Bash, abaixo algumas opções:
+
+* Emprego de um Gerenciador de Máquinas Virtuais + Distribuição Linux: 
+   * Virtualizador sugerido: [Virtual Box](https://www.virtualbox.org/) instalar também o Extension Pack
+   * Distribuição sugerida: [Linux Mint](https://linuxmint.com/)
+* Explorando o [WSL](https://docs.microsoft.com/pt-br/windows/wsl/about)
 
 #### Atualizando o sistema operacional (Sistemas com base no Debian)
 * sudo su
