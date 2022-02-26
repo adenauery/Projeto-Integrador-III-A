@@ -78,7 +78,7 @@ Para uso do Bash, abaixo algumas opções:
       * a primeira vez utilizar git push -u origin master
     * git pull (para buscar arquivos diretório remoto)
 
-  * Explorando Scripts no Linux
+  * Explorando Scripts Bash no Linux
     * Guia Foca Linux - [Site](https://guiafoca.org/)
     * Livros sobre Bash Scripts - [Diretório](https://drive.google.com/open?id=0B2INSZz1E5TlVWdkVFM0OUxKXzA)
     * Exemplos de Scripts:
