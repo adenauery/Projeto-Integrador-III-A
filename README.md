@@ -48,7 +48,7 @@ Para uso do Bash, abaixo algumas opções:
 * Explorando o [WSL](https://docs.microsoft.com/pt-br/windows/wsl/about)
 
 #### Atualizando o sistema operacional (Sistemas com base no Debian)
-* sudo su
+* sudo su \-
 * apt-get update
 * apt-get upgrade
 * apt-get autoremove (se necessário)
