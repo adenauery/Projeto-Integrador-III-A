@@ -2,7 +2,7 @@
 
 Bem vindos ao repositório de trabalho do PI III-A
 
-Após este Projeto Integrador o aluno deverá ser capaz de organizar soluções para monitoramento de informações em redes de computadores complexas, como a Internet das Coisas. Os alunos serão levados a se apropriar de conceitos e funcionalidades de ferramentas de amplo uso no cenário nacional e internacional, bem como explorar protocolos que viabilizem a implementação prática de soluções para monitoramento e análise de dados coletados de ambientes computacionais interconectados pela Internet.
+Após este Projeto Integrador o aluno deverá ser capaz de organizar soluções para monitoramento de informações em redes de computadores complexas, como a Internet das Coisas. Os alunos serão levados a se apropriar de conceitos e funcionalidades de plataformas de amplo uso no cenário nacional e internacional, bem como explorar protocolos que viabilizem a implementação prática de soluções para monitoramento e análise de dados coletados de ambientes computacionais interconectados pela Internet.
 
 Neste **[link](https://docs.google.com/document/d/1zdyfHIcCNcf-rySs3LN2_LurPBLUwJroQaxFDrOZwx0/edit)** está disponível o seu Plano de Execução.
 
@@ -98,7 +98,7 @@ done
   * Para executar utilizar **./nome-do-programa.sh**
 
 
-  * Ferramentas para Monitoramento no Cenário da IoT
+  * Plataformas para Monitoramento no Cenário da IoT
     * [Dashboards para IoT](http://olaria.ucpel.edu.br/materiais/doku.php?id=plataformas_nuvem_iot)
     
  ### Avaliação
