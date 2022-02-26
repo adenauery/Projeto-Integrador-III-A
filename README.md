@@ -14,14 +14,20 @@ Neste **[link](https://docs.google.com/document/d/1zdyfHIcCNcf-rySs3LN2_LurPBLUw
 
 ### Equipe
 
-**Grupo 1:**
+ANDERSON FERNANDES MOREIRA
+DIOGO BITENCOURT NEUENFELD
+DIONATHAN MORAES FUHRMANN
+EMERSON BARBOSA DE MEDEIROS
+LUCIANO COUTO DA SILVA
+NATANAELE BARROS MACHADO
+RANIERI MARTINS DA SILVA
+RODRIGO DOS SANTOS OLMOS
 
-**Grupo 2:**
-
-**Grupo 3:**
-
-**Grupo 4:**
-  
+* **Grupo 1:**
+* **Grupo 2:**
+* **Grupo 3:**
+* **Grupo 4:**
+ 
 ### Primeiro Encontro Síncrono - 26/03/2022
 
 #### Visão Geral da IoT
