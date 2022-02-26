@@ -12,7 +12,7 @@ Neste **[link](https://docs.google.com/document/d/1zdyfHIcCNcf-rySs3LN2_LurPBLUw
 * Rogério Albandes - rogerio.albandes at ucpel.edu.br
 
 
-### Equipe
+### Equipe Acadêmica
 
 * ANDERSON FERNANDES MOREIRA
 * DIOGO BITENCOURT NEUENFELD
