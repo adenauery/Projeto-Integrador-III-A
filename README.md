@@ -115,6 +115,8 @@ done
     * URL: broker.emqx.io
     * Porta: 1883
 
+* Comando para receber as publicações feitas a partir de script Bash em Broker MQTT
+  *  mosquitto_sub -h broker.emqx.io -t pi3a
 
 * **Entrega Relatório Parcial:**
     * O período de entrega do Relatório Parcial é de 28/03 até 04/04 às 23:59h, via a Plataforma A
