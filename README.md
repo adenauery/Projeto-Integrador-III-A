@@ -98,10 +98,6 @@ done
   * Para tornar executável utilizar no terminal o comando **chmod 755 nome-do-programa.sh**
   * Para executar utilizar **./nome-do-programa.sh**
 
-  * Broker MQTT utilizado nos testes: 
-    * URL: broker.emqx.io
-    * Porta: 1883
-
   * Plataformas para Monitoramento no Cenário da IoT
     * [Principais Alternativas Dispníveis](http://olaria.ucpel.edu.br/materiais/doku.php?id=plataformas_nuvem_iot)
      
@@ -114,6 +110,11 @@ done
   * Plataformas de Software
     * [Mosquitto da Eclipse Foundation](https://mosquitto.org)
     * [Brokers MQTT gratuitos e pagos para utilizar em projetos da IoT](https://mntolia.com/10-free-public-private-mqtt-brokers-for-testing-prototyping/)
+
+  * Broker MQTT selecionado para os testes: 
+    * URL: broker.emqx.io
+    * Porta: 1883
+
 
 * **Entrega Relatório Parcial:**
     * O período de entrega do Relatório Parcial é de 28/03 até 04/04 às 23:59h, via a Plataforma A
