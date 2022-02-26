@@ -1,27 +1,28 @@
 ## Projeto Integrador III-A - Redes de Computadores
 
+Bem vindos ao repositório do PI V-A.
+
+Após este Projeto Integrador o aluno deverá ser capaz de organizar soluções para monitoramento de informações em redes de computadores complexas, como a Internet das Coisas. Os alunos serão levados a se apropriar de conceitos e funcionalidades de ferramentas de amplo uso no cenário nacional e internacional, bem como explorar protocolos que viabilizem a implementação prática de soluções para monitoramento e análise de dados coletados de ambientes computacionais interconectados pela Internet.
+
+Neste **[link](https://docs.google.com/document/d/1zdyfHIcCNcf-rySs3LN2_LurPBLUwJroQaxFDrOZwx0/edit)** está disponível o seu Plano de Execução.
+
+### Professores Responsáveis
+
+* Adenauer Yamin - adenauer.yamin at ucpel.edu.br
+* Rogério Albandes - rogerio.albandes at ucpel.edu.br
+
+
 ### Equipe
 
 **Grupo 1:**
-* Guilherme de Souza Dias
-* Pablo de Souza Lopes
 
 **Grupo 2:**
-* Bruno Lemke dos Santos
-* Emerson Barbosa de Medeiros
 
 **Grupo 3:**
-* Hendrio Buttow Pereira
-* Marcelo Souza da Rosa
 
 **Grupo 4:**
-* Paulo Armando da Silva Alves
-* Rodrigo Valadão
   
-  
-[//]: # (This may be the most platform independent comment)
-  
-### Primeiro Encontro Presencial - 27/03/2021
+### Primeiro Encontro Síncrono - 26/03/2022
 
 #### Visão Geral da IoT
   * [Slides Introdutórios](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=internet_das_coisas_iot.pdf)
@@ -85,20 +86,20 @@
  
   * **Cada grupo irá ficar responsável por um dashboard, conforme a seguir:**
 
-      * Grupo 1: [Konker](http://www.konkerlabs.com) - Pablo e Guilherme
-      * Grupo 2: [ThingSpeak](https://thingspeak.com/) - Bruno - [Como postar por MQTT](https://nothans.com/thingspeak-tutorials/update-a-thingspeak-channel-using-mqtt-on-a-raspberry-pi)
-      * Grupo 3: [Tago IO](https://tago.io/)
-      * Grupo 4: [Ubidots](https://ubidots.com/stem/) - Paulo e Rodrigo
+      * Grupo 1: 
+      * Grupo 2: 
+      * Grupo 3: 
+      * Grupo 4: 
      
-  * **Ferramentas para Análise Estatística de Grandes Volumes de Dados:**     
-      * https://pt.wikipedia.org/wiki/Scilab (Open Source)
-      * https://pt.wikipedia.org/wiki/MATLAB (Proprietária)
+  * **Ferramentas Open Source para Análise Estatística de Grandes Volumes de Dados:**     
+      * https://pt.wikipedia.org/wiki/Scilab (Open Source) similar ao [Matlab](https://pt.wikipedia.org/wiki/MATLAB)
+      * Python Pandas: [Site 1](https://harve.com.br/blog/programacao-python-blog/pandas-python-vantagens-e-como-comecar/) - [Site 2](https://insightlab.ufc.br/10-funcoes-mais-usadas-para-manipular-dataframes-no-pandas/)
      
  
   * **Entrega Relatório Parcial:**
-    * A data da Entrega Parcial é de **05/04 até 11/04** via a Plataforma Blackboard
-    * Relatório descrevendo as características do Dashboard selecionado, podendo ser incluídas figuras, tabelas, etc. A natureza deste relatório é conceitual, focado no entendimento de como opera o Dashboard e quais funcionalidades são disponibilizadas.
-    * O arquivo a ser submetido pode estar em formato do MS-Word ou PDF
+    * O período de entrega do Relatório Parcial é de 28/03 até 04/04 às 23:59h, via a Plataforma A
+    * A Entrega Parcial, que contempla 40% da nota do projeto integrador, irá consistir de um Relatório Parcial compreendendo os seguintes pontos: (a) uma descrição dos principais aspectos e funcionalidades referentes a uma plataforma, a ser selecionada pelo aluno, empregada no monitoramento de informações na Internet das Coisas (IoT); (b) instalação e testes de um script bash para monitoramento. O Relatório Parcial deverá ser entregue empregando a Plataforma A.
+
     
 <!--
     
