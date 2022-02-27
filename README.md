@@ -100,7 +100,7 @@ done
 
 #### Plataformas para Monitoramento no Cenário da IoT
 
-[Principais Alternativas Dispníveis](http://olaria.ucpel.edu.br/materiais/doku.php?id=plataformas_nuvem_iot)
+* [Principais Alternativas Dispníveis](http://olaria.ucpel.edu.br/materiais/doku.php?id=plataformas_nuvem_iot)
      
      
  #### Transmitindo Informações Sensoriadas do Meio para um Servidor
