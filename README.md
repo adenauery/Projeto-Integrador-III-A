@@ -98,7 +98,7 @@ done
   * Para tornar executável utilizar no terminal o comando **chmod 755 nome-do-programa.sh**
   * Para executar utilizar **./nome-do-programa.sh**
 
-  * Plataformas para Monitoramento no Cenário da IoT
+#### Plataformas para Monitoramento no Cenário da IoT
     * [Principais Alternativas Dispníveis](http://olaria.ucpel.edu.br/materiais/doku.php?id=plataformas_nuvem_iot)
      
      
@@ -111,11 +111,14 @@ done
     * [Mosquitto da Eclipse Foundation](https://mosquitto.org)
     * [Brokers MQTT gratuitos e pagos para utilizar em projetos da IoT](https://mntolia.com/10-free-public-private-mqtt-brokers-for-testing-prototyping/)
 
+#### Implementações Realizadas
+
   * Broker MQTT selecionado para os testes: 
     * URL: broker.emqx.io
     * Porta: 1883
 
-* Comando para receber as publicações feitas a partir de script Bash em Broker MQTT
+* Script Bash utilizando MQTT para monitorar CPU
+  * Código empregado: 
   *  mosquitto_sub -h broker.emqx.io -t pi3a
 
 * **Entrega Relatório Parcial:**
