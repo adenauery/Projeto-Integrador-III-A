@@ -16,18 +16,19 @@ Neste **[link](https://docs.google.com/document/d/1zdyfHIcCNcf-rySs3LN2_LurPBLUw
 
 Os grupos devem ser compostos com o total de integrantes variando de 1 a 3.
 
-* **Grupo 1:** Konker http://www.konkerlabs.com/
-  * NATANAELE BARROS MACHADO
-  * EMERSON BARBOSA DE MEDEIROS
-* **Grupo 2:** Thingsboard https://thingsboard.io 
-  * ANDERSON FERNANDES MOREIRA
-  * DIOGO BITENCOURT NEUENFELD
-* **Grupo 3:** ThingSpeak https://thingspeak.com/.
-  * DIONATHAN MORAES FUHRMANN
-  * LUCIANO COUTO DA SILVA
-* **Grupo 4:** Ubidots https://ubidots.com/stem/ 
-  * RANIERI MARTINS DA SILVA
-  * RODRIGO DOS SANTOS OLMOS
+* **Grupo 1:**
+  * Natanaele Barros Machado
+  * Emerson Barbosa De Medeiros
+* **Grupo 2:** 
+  * Anderson Fernandes Moreira
+  * Diogo Bitencourt Neuenfeld
+* **Grupo 3:**
+  * Dionathan Moraes Fuhrmann
+  * Luciano Couto Da Silva
+* **Grupo 4:**
+  * Ranieri Martins Da Silva
+  * Rodrigo Dos Santos Olmos
+
  
 ### Primeiro Encontro Síncrono - 26/03/2022
 
@@ -59,24 +60,7 @@ Para uso do Bash, abaixo algumas opções:
   * apt-cache search \<parte do nome ou funcionalidade do possível pacote\>
   * apt-get install \<nome do pacote\>
 
-#### Protocolo Git
-  * Site de referência - [Fast Version Control ...](https://git-scm.com/)
-  * Criar conta no GitHub: https://github.com/
-  * [Alternativas ao GitHub](https://pt.wikiversity.org/wiki/Github_x_Gitlab_x_Bitbucket)
-  * Utilizando o GitHub - [Tutorial 1](https://rogerdudler.github.io/git-guide/index.pt_BR.html), [Tutorial 2](https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git/), [Tutorial 3](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
-  * Exercitar a sintaxe do Markdown: [Tutorial 1](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown)
 
-  * Comandos selcionados:
-    * git help
-    * git clone \<URL provida pelo GitHub\>
-    * git config --global user.name "Leonardo Comelli"
-    * git config --global user.email leonardo@software-ltda.com.br
-    * git add meu_arquivo.txt (para adicionar todos os arquivos git add .)
-    * git rm meu_arquivo.txt
-    * git commit meuarquivo.txt -m "minha mensagem de commit"
-    * git push (para enviar arquivos ao diretório remoto)
-      * a primeira vez utilizar git push -u origin master
-    * git pull (para buscar arquivos diretório remoto)
 
   * Explorando Scripts Bash no Linux
     * Guia Foca Linux - [Site](https://guiafoca.org/)
@@ -168,6 +152,26 @@ done
 
 
 ### Segundo Encontro Presencial - 24/04/2021
+
+
+#### Protocolo Git
+  * Site de referência - [Fast Version Control ...](https://git-scm.com/)
+  * Criar conta no GitHub: https://github.com/
+  * [Alternativas ao GitHub](https://pt.wikiversity.org/wiki/Github_x_Gitlab_x_Bitbucket)
+  * Utilizando o GitHub - [Tutorial 1](https://rogerdudler.github.io/git-guide/index.pt_BR.html), [Tutorial 2](https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git/), [Tutorial 3](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+  * Exercitar a sintaxe do Markdown: [Tutorial 1](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown)
+
+  * Comandos selcionados:
+    * git help
+    * git clone \<URL provida pelo GitHub\>
+    * git config --global user.name "Leonardo Comelli"
+    * git config --global user.email leonardo@software-ltda.com.br
+    * git add meu_arquivo.txt (para adicionar todos os arquivos git add .)
+    * git rm meu_arquivo.txt
+    * git commit meuarquivo.txt -m "minha mensagem de commit"
+    * git push (para enviar arquivos ao diretório remoto)
+      * a primeira vez utilizar git push -u origin master
+    * git pull (para buscar arquivos diretório remoto)
  
 #### Gravando Dados Coletados em uma Plataforma de Nuvem
   * Registro histórico dos dados: [Exemplo 1](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
