@@ -101,7 +101,12 @@ done
 #### Plataformas para Monitoramento no Cenário da IoT
 
 * [Principais Alternativas Dispníveis](http://olaria.ucpel.edu.br/materiais/doku.php?id=plataformas_nuvem_iot)
-     
+* Plataformas selecionadas para os grupos. A seleção teve como critério ter a possibilidade de uso sem custo:
+  * **Grupo 1:** Konker http://www.konkerlabs.com/
+  * **Grupo 2:** Thingsboard https://thingsboard.io 
+  * **Grupo 3:** ThingSpeak https://thingspeak.com/.
+  * **Grupo 4:** Ubidots https://ubidots.com/stem/ 
+    
      
  #### Transmitindo Informações Sensoriadas do Meio para um Servidor
   * Conceitos
