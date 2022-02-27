@@ -99,7 +99,8 @@ done
   * Para executar utilizar **./nome-do-programa.sh**
 
 #### Plataformas para Monitoramento no Cenário da IoT
-    * [Principais Alternativas Dispníveis](http://olaria.ucpel.edu.br/materiais/doku.php?id=plataformas_nuvem_iot)
+
+[Principais Alternativas Dispníveis](http://olaria.ucpel.edu.br/materiais/doku.php?id=plataformas_nuvem_iot)
      
      
  #### Transmitindo Informações Sensoriadas do Meio para um Servidor
@@ -119,7 +120,7 @@ done
 
 * Script Bash utilizando MQTT para monitorar CPU
   * O Código empregado está disponível neste [link](https://github.com/adenauery/Redes-PI3/blob/master/publica-emqx.sh)
-  * Para recber os valores publicados utilizar: mosquitto_sub -h broker.emqx.io -t pi3a
+  * Para recber os valores publicados pelo script utilizar: mosquitto_sub -h broker.emqx.io -t pi3a
 
 * **Entrega Relatório Parcial:**
     * O período de entrega do Relatório Parcial é de 28/03 até 04/04 às 23:59h, via a Plataforma A
