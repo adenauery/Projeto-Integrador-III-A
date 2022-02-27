@@ -71,7 +71,7 @@ Para uso do Bash, abaixo algumas opções:
 
   * Para monitorar a ocupação de CPU utilizar um programa para gerar carga sintética, como o abaixo escrito em Bash:
 
-~~~
+  * ~~~
 while [ 1 ]
 do
 a=7.11/6.79
