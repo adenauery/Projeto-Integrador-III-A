@@ -21,6 +21,8 @@ Os grupos devem ser compostos com o total de integrantes variando de 1 a 3.
 * **Grupo 3:** Dionathan Moraes Fuhrmann e Luciano Couto Da Silva
 * **Grupo 4:** Ranieri Martins Da Silva e Rodrigo Dos Santos Olmos
 
+Abaixo está a indicação da Plataforma IoT sob a responsabilidade de cada grupo.
+
  
 ### Primeiro Encontro Síncrono - 26/03/2022
 
