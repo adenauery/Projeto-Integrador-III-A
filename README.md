@@ -16,18 +16,10 @@ Neste **[link](https://docs.google.com/document/d/1zdyfHIcCNcf-rySs3LN2_LurPBLUw
 
 Os grupos devem ser compostos com o total de integrantes variando de 1 a 3.
 
-* **Grupo 1:**
-  * Natanaele Barros Machado
-  * Emerson Barbosa De Medeiros
-* **Grupo 2:** 
-  * Anderson Fernandes Moreira
-  * Diogo Bitencourt Neuenfeld
-* **Grupo 3:**
-  * Dionathan Moraes Fuhrmann
-  * Luciano Couto Da Silva
-* **Grupo 4:**
-  * Ranieri Martins Da Silva
-  * Rodrigo Dos Santos Olmos
+* **Grupo 1:** Natanaele Barros Machado e Emerson Barbosa De Medeiros
+* **Grupo 2:** Anderson Fernandes Moreira e Diogo Bitencourt Neuenfeld
+* **Grupo 3:** Dionathan Moraes Fuhrmann e Luciano Couto Da Silva
+* **Grupo 4:** Ranieri Martins Da Silva e Rodrigo Dos Santos Olmos
 
  
 ### Primeiro Encontro Síncrono - 26/03/2022
