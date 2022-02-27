@@ -118,8 +118,8 @@ done
     * Porta: 1883
 
 * Script Bash utilizando MQTT para monitorar CPU
-  * Código empregado: 
-  *  mosquitto_sub -h broker.emqx.io -t pi3a
+  * O Código empregado está disponível neste [link](https://github.com/adenauery/Redes-PI3/blob/master/publica-emqx.sh)
+  * Para recber os valores publicados utilizar: mosquitto_sub -h broker.emqx.io -t pi3a
 
 * **Entrega Relatório Parcial:**
     * O período de entrega do Relatório Parcial é de 28/03 até 04/04 às 23:59h, via a Plataforma A
