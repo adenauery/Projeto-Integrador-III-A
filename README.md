@@ -112,7 +112,7 @@ done
     * [Mosquitto da Eclipse Foundation](https://mosquitto.org)
     * [Brokers MQTT gratuitos e pagos para utilizar em projetos da IoT](https://mntolia.com/10-free-public-private-mqtt-brokers-for-testing-prototyping/)
 
-#### Implementações Realizadas
+#### Implementação Realizada
 
   * Broker MQTT selecionado para os testes: 
     * URL: broker.emqx.io
