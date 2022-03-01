@@ -14,5 +14,5 @@ echo $CPU_USAGE
 
 mosquitto_pub -h broker.emqx.io -t pi3a -m $CPU_USAGE
 
-sleep 10s
+sleep 7s
 done
