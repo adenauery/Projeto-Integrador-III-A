@@ -20,6 +20,7 @@ Os grupos devem ser compostos com o total de integrantes variando de 1 a 3.
 * **Grupo 2:** Anderson Fernandes Moreira e Diogo Bitencourt Neuenfeld
 * **Grupo 3:** Dionathan Moraes Fuhrmann e Luciano Couto Da Silva
 * **Grupo 4:** Ranieri Martins Da Silva e Rodrigo Dos Santos Olmos
+* **Grupo 5:** Cinthia Scheunemann
 
 Abaixo está a indicação da Plataforma IoT sob a responsabilidade de cada grupo.
 
@@ -84,7 +85,7 @@ done
   * **Grupo 2:** Thingsboard https://thingsboard.io 
   * **Grupo 3:** ThingSpeak https://thingspeak.com/.
   * **Grupo 4:** Ubidots https://ubidots.com/stem/ 
-    
+  * **Grupo 5:** Tago https://tago.io/
      
  #### Transmitindo Informações Sensoriadas do Meio para um Servidor
   * Conceitos
