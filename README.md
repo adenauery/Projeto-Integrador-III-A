@@ -106,12 +106,19 @@ done
   * O Código empregado está disponível neste [link](https://github.com/adenauery/Redes-PI3/blob/master/publica-emqx.sh)
   * Para **recber os valores publicados** pelo script utilizar: **mosquitto_sub -h broker.emqx.io -t pi3a**
 
+* Abaixo um dashbord feito para o Projeto Integrador III - A, que também recebe por MQTT os valores publicados pelo script:
+  * pi.exehda.org:3000/
+  * usuário: pi3a   (Este usuário é somente para visualização)
+  * password: luz@azul#pi
+
+Este dahsboard foi feito utilizando o Framework Grafana e o Banco de Dados PostgreSQL 
+
 * **Entrega Relatório Parcial:**
     * O período de entrega do Relatório Parcial é de 28/03 até 04/04 às 23:59h, via a Plataforma A
     * A Entrega Parcial, que contempla 40% da nota do projeto integrador, irá consistir de um Relatório Parcial compreendendo os seguintes pontos: (a) uma descrição dos principais aspectos e funcionalidades referentes a uma plataforma, a ser selecionada pelo aluno, empregada no monitoramento de informações na Internet das Coisas (IoT); (b) instalação e testes de um script bash para monitoramento. O Relatório Parcial deverá ser entregue empregando a Plataforma A.
 
     
-<!--
+<!-- ESTA PARTE ESTÁ COMENTADA
     
   * **Entrega Relatório Final** 
     * O período para a Entrega Final é de **26/04 até 27/04** às 23:59h
