@@ -12,7 +12,7 @@ DATE=$(date "+%Y-%m-%d %H:%M:")
 
 echo $CPU_USAGE 
 
-mosquitto_pub -h broker.emqx.io -t pi3a -m $CPU_USAGE
+mosquitto_pub -h broker.hivemq.com -t pi3a -m $CPU_USAGE
 
 sleep 7s
 done
