@@ -110,7 +110,7 @@ done
 
 * Abaixo um dashbord feito para o Projeto Integrador III - A, que também recebe por MQTT os valores publicados pelo script:
   * pi.exehda.org:3000/
-  * usuário: pi3a   (Este usuário é somente para visualização)
+  * usuário: pi3a  
   * password: luz@azul#pi
 
 Este dahsboard foi feito utilizando o Framework Grafana e o Banco de Dados PostgreSQL 
