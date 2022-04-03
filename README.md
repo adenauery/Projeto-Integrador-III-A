@@ -107,6 +107,7 @@ done
 * Script Bash utilizando MQTT para monitorar CPU
   * O Código empregado está disponível neste [link](https://github.com/adenauery/Redes-PI3/blob/master/publica-emqx.sh)
   * Para **recber os valores publicados** pelo script utilizar: **mosquitto_sub -h broker.hivemq.com -t pi3a**
+  * As publicações acontecem de minuto em minuto
 
 * Abaixo um dashbord feito para o Projeto Integrador III - A, que também recebe por MQTT os valores publicados pelo script:
   * pi.exehda.org:3000/
