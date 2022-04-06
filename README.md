@@ -63,6 +63,8 @@ Para uso do Bash, abaixo algumas opções:
     * Exemplos de Scripts:
       * [Filtro CPU e Memória](http://olaria.ucpel.edu.br/materiais/doku.php?id=script-filtro-informacoes)
       * [Captura Informações Dinâmicas](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=script-cpu-dinamico.sh.zip)
+  * Para tornar executável um Script utilizar no terminal o comando **chmod 755 nome-do-programa.sh**
+  * Para executar utilizar **./nome-do-programa.sh**
 
 #### Para monitorar a ocupação de CPU utilizar um programa para gerar carga sintética, como o abaixo escrito em Bash:
 
@@ -116,36 +118,17 @@ done
 
 Este dahsboard foi feito utilizando o Framework Grafana e o Banco de Dados PostgreSQL 
 
-* **Entrega Relatório Parcial:**
+* **Entrega (Relatório) Parcial:**
     * O período de entrega do Relatório Parcial é de 28/03 até 04/04 às 23:59h, via a Plataforma A
     * A Entrega Parcial, que contempla 40% da nota do projeto integrador, irá consistir de um Relatório Parcial compreendendo os seguintes pontos: (a) uma descrição dos principais aspectos e funcionalidades referentes a uma plataforma, a ser selecionada pelo aluno, empregada no monitoramento de informações na Internet das Coisas (IoT); (b) instalação e testes de um script bash para monitoramento, que publique em um Broker MQTT. O Relatório Parcial deverá ser entregue empregando a Plataforma A.
 
     
 <!-- ESTA PARTE ESTÁ COMENTADA
     
-  * **Entrega Relatório Final** 
-    * O período para a Entrega Final é de **26/04 até 27/04** às 23:59h
 
   * **Ferramentas Open Source para Análise Estatística de Grandes Volumes de Dados:**     
       * https://pt.wikipedia.org/wiki/Scilab (Open Source) similar ao [Matlab](https://pt.wikipedia.org/wiki/MATLAB)
       * Python Pandas: [Site 1](https://harve.com.br/blog/programacao-python-blog/pandas-python-vantagens-e-como-comecar/) - [Site 2](https://insightlab.ufc.br/10-funcoes-mais-usadas-para-manipular-dataframes-no-pandas/)
-
-  * Para tornar executável utilizar no terminal o comando **chmod 755 nome-do-programa.sh**
-  * Para executar utilizar **./nome-do-programa.sh**
-
-   
-  * **Apresentação do Relatório Final:**
-    * Apresentação do Relatório Final será dia **08/05/2021 a partir das 14:00 h** 
-    * Avaliar utilizar o Google Docs para produzir de forma colaborativa a apresentação. Vide exemplo neste [link](https://docs.google.com/presentation/d/1CaY3PK5XJZ73Zojp6r_omlfoj-3kg-suxOLtwOEI6rg/edit?usp=sharing) (mesmo disponível abaixo)
-    * Entrega Final incluindo diferentes aspectos da operação do Dahsboard 
-      * O Relatório correspondente a Entrega Final, no seu início **deverá incluir a parte conceitual, já contemplada no Entrega Parcial**
-      * A coleta de informações a serem publicadas no Dashboard poderá ser feita a partir de qualquer equipamento
-      * Se necessário podem ser utilizados os equipamentos da Sala 202D. A sala 202D é o local aonde acontecerá o Segundo Encontro Presencial
-      * Como exemplo de informações a serem coletadas teríamos: ocupação de CPU, de memória, de disco, volume instântaneo de tráfego, etc.
-      * Serão realizadas discussões de procedimentos de captura de informações nas encontros por web conferência, bem como no Segundo Encontro presencial
-      * Como exemplo de informações a serem coletadas teríamos: ocupação de CPU, de memória, de disco, volume instântaneo de tráfego, etc.
-    * Apresentação 
-      * Deverá ser elaborada uma apresentação com duração entre 15 e 30 minutos discorrendo sobre o Dashboard trabalhado 
 
   * **Exemplo de Uso do LaTeX**
     * [Exemplo de Texto](https://www.overleaf.com/read/cqtvqphcvnyd)
@@ -154,9 +137,6 @@ Este dahsboard foi feito utilizando o Framework Grafana e o Banco de Dados Postg
 
   * **Exemplo de Apresentação explorando o Google Docs**
     * [Exemplo de Apresentação](https://docs.google.com/presentation/d/1CaY3PK5XJZ73Zojp6r_omlfoj-3kg-suxOLtwOEI6rg/edit?usp=sharing)
-
-
-### Segundo Encontro Presencial - 24/04/2021
 
 
 #### Protocolo Git
@@ -178,62 +158,8 @@ Este dahsboard foi feito utilizando o Framework Grafana e o Banco de Dados Postg
       * a primeira vez utilizar git push -u origin master
     * git pull (para buscar arquivos diretório remoto)
  
-#### Gravando Dados Coletados em uma Plataforma de Nuvem
-  * Registro histórico dos dados: [Exemplo 1](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
-~~~
-var planilha = SpreadsheetApp.openById("1cXSm1inxurfARCu9JN12rCpxIAPVEd5KJ1p_P2MxKs0");
-var sheet = planilha.getActiveSheet();
 
-function doGet(e)
-{
-var linhas = sheet.getLastRow();
-var rec_cargacpu = e.parameter.cargacpu;
-sheet.appendRow([linhas, rec_cargacpu]);
-return ContentService.createTextOutput("Ocupação CPU recebida"); 
-}
-~~~
-  * Visualizando os dados: [Exemplo 1](https://fazerlab.wordpress.com/2017/10/30/grafico-dinamico-com-google-script-e-planilha/)
-~~~
-var planilha = SpreadsheetApp.openById("1uw3kIEHct32iNtlecpOtddExPNEQ6b4A38MZp5HWfLk"); 
-var sheet = planilha.getActiveSheet();
-
-function doGet(e)
-{
-  var linhas = sheet.getLastRow();
-  var rec_cpu = e.parameter.cpu;
-  sheet.appendRow([linhas, rec_cpu]); 
-  //atualizacao: grafico
-  var range = sheet.getRange("A1:B120")
-  var chart = sheet.getCharts()[0];
-  chart = chart.modify()
-     .addRange(range)
-     .setOption('title', 'Updated!')
-     .setOption('animation.duration', 500)
-     .setPosition(5,5,0,0)
-     .build();
-   sheet.updateChart(chart);
-  
-  //retorna msg para cliente
-  return ContentService.createTextOutput("Carga CPU Recebida");
-}
-~~~
-#### Coletando Informações do Meio
-  * Empregando Shell Script
-~~~
-#!/bin/bash
-while :
-do
-CPU_USAGE=$(top -b -n2 -p 1 | fgrep "Cpu(s)" | tail -1 | awk -F'id,' -v prefix="$prefix" '{ split($1, vs, ","); v=vs[length(vs)]; sub("%", "", v); printf "%s%.4f\n", prefix, 100 - v }')
-
-cpu=`(echo $CPU_USAGE | tr . ,)`
-
-echo "Enviando a carga atual da CPU para o Google";
-wget https://script.google.com/macros/s/AKfycbyqNdmcL8fv3elwt77DrcBYt3VPykl5rmZ9QsK4nLZRbBZcbkgm/exec?cpu=$cpu 2> /dev/null -O /dev/null;
-
-sleep 10;
-done
-~~~
-  * Empregando uma linguagem de programação
+  * Empregando uma linguagem de programação com MQTT
   
     * [Explorando o uso de MQTT em Programas Python](https://fazbe.github.io/Usando-o-paho-mqtt-para-Python/)
 
@@ -281,6 +207,7 @@ client.connect("mqtt.eclipse.org", 1883, 60)
 # Inicia o loop
 client.loop_forever()
 ~~~
+
 ##### Procedimento de Publicação
 ~~~
 # Ensures paho is in PYTHONPATH
@@ -291,5 +218,9 @@ import paho.mqtt.publish as publish
 # Publica
 publish.single("PI-3A", "Olá Mundo!", hostname="mqtt.eclipse.org")
 ~~~
+* **Entrega (Relatório) Final:**
+    * O período da Entrega Final é de 25/04 até 29/04 às 23:59h, via a Plataforma A
+    * A Entrega Final, que contempla 60% da nota do projeto integrador, irá consistir da entrega de um Relatório Final que descreva os procedimentos realizados para desenvolvimento de uma aplicação empregando protocolos e uma linguagem de programação para monitoramento de equipamentos conectados em uma rede. As informações monitoradas deverão ser postadas na Plataforma para monitoramento na IoT selecionada pelo grupo. Juntamente com o Relatório Final deverá ser também entregue um vídeo que trate do apresentado tanto no Relatório Parcial, como no Final. O vídeo deverá ser disponibilizado na forma de um link presente no Relatório Final. O Relatório final deverá ser entregue empregando a Plataforma A.
+
 
 -->
