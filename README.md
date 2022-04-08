@@ -129,7 +129,7 @@ Este dahsboard foi feito utilizando o Framework Grafana e o Banco de Dados Postg
 - [ ] Criar a conta na plataforma selecionada para o grupo
 - [ ] Criar conta no GitHub (opcional)
 
-### Todo 
+### To do 
 - [ ] Script em shell para gerar carga na CPU ou similar
 - [ ] Programa em Python para a medida da CPU ou similar
 - [ ] Publicação na plataforma definida para o grupo
