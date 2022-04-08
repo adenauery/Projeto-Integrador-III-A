@@ -122,7 +122,10 @@ Este dahsboard foi feito utilizando o Framework Grafana e o Banco de Dados Postg
     * O período de entrega do Relatório Parcial é de 28/03 até 04/04 às 23:59h, via a Plataforma A
     * A Entrega Parcial, que contempla 40% da nota do projeto integrador, irá consistir de um Relatório Parcial compreendendo os seguintes pontos: (a) uma descrição dos principais aspectos e funcionalidades referentes a uma plataforma, a ser selecionada pelo aluno, empregada no monitoramento de informações na Internet das Coisas (IoT); (b) instalação e testes de um script bash para monitoramento, que publique em um Broker MQTT. O Relatório Parcial deverá ser entregue empregando a Plataforma A.
 
-#### Checklist aula de 09/04/2022
+
+ 
+### Segundo Encontro Síncrono - 09/04/2022
+#### Checklist da aula
 - [ ] Instalar Linux ou VM com linux
 - [ ] Instalar Phyton
 - [ ] Instalar editor de texto preferido
