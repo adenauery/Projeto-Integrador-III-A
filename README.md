@@ -140,8 +140,8 @@ Este dahsboard foi feito utilizando o Framework Grafana e o Banco de Dados Postg
 - [ ] Realizar push no GitHub (opcional)
 
 ### Entrega (Relatório) Final:
-O período da Entrega Final é de 25/04 até 29/04 às 23:59h, via a Plataforma A.
-A Entrega Final, que contempla 60% da nota do projeto integrador, irá consistir da entrega de um Relatório Final que descreva os procedimentos realizados para desenvolvimento de uma aplicação empregando protocolos e uma linguagem de programação para monitoramento de equipamentos conectados em uma rede. As informações monitoradas deverão ser postadas na Plataforma para monitoramento na IoT selecionada pelo grupo. Juntamente com o Relatório Final deverá ser também entregue um vídeo que trate do apresentado tanto no Relatório Parcial, como no Final. O vídeo deverá ser disponibilizado na forma de um link presente no Relatório Final. O Relatório final deverá ser entregue empregando a Plataforma A.
+  * O período da Entrega Final é de 25/04 até 29/04 às 23:59h, via a Plataforma A.
+  * A Entrega Final, que contempla 60% da nota do projeto integrador, irá consistir da entrega de um Relatório Final que descreva os procedimentos realizados para desenvolvimento de uma aplicação empregando protocolos e uma linguagem de programação para monitoramento de equipamentos conectados em uma rede. As informações monitoradas deverão ser postadas na Plataforma para monitoramento na IoT selecionada pelo grupo. Juntamente com o Relatório Final deverá ser também entregue um vídeo que trate do apresentado tanto no Relatório Parcial, como no Final. O vídeo deverá ser disponibilizado na forma de um link presente no Relatório Final. O Relatório final deverá ser entregue empregando a Plataforma A.
 
 #### Protocolo Git
   * Site de referência - [Fast Version Control ...](https://git-scm.com/)
