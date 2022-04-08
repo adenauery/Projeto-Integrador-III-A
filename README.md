@@ -122,6 +122,41 @@ Este dahsboard foi feito utilizando o Framework Grafana e o Banco de Dados Postg
     * O período de entrega do Relatório Parcial é de 28/03 até 04/04 às 23:59h, via a Plataforma A
     * A Entrega Parcial, que contempla 40% da nota do projeto integrador, irá consistir de um Relatório Parcial compreendendo os seguintes pontos: (a) uma descrição dos principais aspectos e funcionalidades referentes a uma plataforma, a ser selecionada pelo aluno, empregada no monitoramento de informações na Internet das Coisas (IoT); (b) instalação e testes de um script bash para monitoramento, que publique em um Broker MQTT. O Relatório Parcial deverá ser entregue empregando a Plataforma A.
 
+#### Checklist aula de 09/04/2022
+- [ ] Instalar Linux ou VM com linux
+- [ ] Instalar Phyton
+- [ ] Instalar editor de texto preferido
+- [ ] Criar a conta na plataforma selecionada para o grupo
+
+### Todo 
+- [ ] Script em shell para gerar carga na CPU ou similar
+- [ ] Programa em Python para a medida da CPU ou similar
+- [ ] Publicação na plataforma definida para o grupo
+- [ ] Realizar push no GitHub (opcional)
+
+### Entrega (Relatório) Final:
+    O período da Entrega Final é de 25/04 até 29/04 às 23:59h, via a Plataforma A.
+    A Entrega Final, que contempla 60% da nota do projeto integrador, irá consistir da entrega de um Relatório Final que descreva os procedimentos realizados para desenvolvimento de uma aplicação empregando protocolos e uma linguagem de programação para monitoramento de equipamentos conectados em uma rede. As informações monitoradas deverão ser postadas na Plataforma para monitoramento na IoT selecionada pelo grupo. Juntamente com o Relatório Final deverá ser também entregue um vídeo que trate do apresentado tanto no Relatório Parcial, como no Final. O vídeo deverá ser disponibilizado na forma de um link presente no Relatório Final. O Relatório final deverá ser entregue empregando a Plataforma A.
+
+#### Protocolo Git
+  * Site de referência - [Fast Version Control ...](https://git-scm.com/)
+  * Criar conta no GitHub: https://github.com/
+  * [Alternativas ao GitHub](https://pt.wikiversity.org/wiki/Github_x_Gitlab_x_Bitbucket)
+  * Utilizando o GitHub - [Tutorial 1](https://rogerdudler.github.io/git-guide/index.pt_BR.html), [Tutorial 2](https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git/), [Tutorial 3](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+  * Exercitar a sintaxe do Markdown: [Tutorial 1](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown)
+
+  * Comandos selecionados:
+    * git help
+    * git clone \<URL provida pelo GitHub\>
+    * git config --global user.name "Leonardo Comelli"
+    * git config --global user.email leonardo@software-ltda.com.br
+    * git add meu_arquivo.txt (para adicionar todos os arquivos git add .)
+    * git rm meu_arquivo.txt
+    * git commit meuarquivo.txt -m "minha mensagem de commit"
+    * git push (para enviar arquivos ao diretório remoto)
+      * a primeira vez utilizar git push -u origin master
+    * git pull (para buscar arquivos diretório remoto)
+
     
 <!-- ESTA PARTE ESTÁ COMENTADA
     
