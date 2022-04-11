@@ -162,7 +162,13 @@ Este dahsboard foi feito utilizando o Framework Grafana e o Banco de Dados Postg
       * a primeira vez utilizar git push -u origin master
     * git pull (para buscar arquivos diretório remoto)
 
-    
+ 
+ ### Instalando ThingsBoard em equipamento local
+   * [Instalando o ThingsBoard utilizando Dockers](https://thingsboard.io/docs/user-guide/install/docker/?ubuntuThingsboardQueue=inmemory)
+   * [Instalando o Docker no Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-pt)
+   * [Instalando o Docker-Composer no Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-pt)
+ 
+ 
 <!-- ESTA PARTE ESTÁ COMENTADA
     
 
